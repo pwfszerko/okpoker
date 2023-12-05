@@ -34,7 +34,6 @@ public class App {
     }
 
     private static void handleException(Exception exception) {
-        // Handle the exception gracefully, e.g., logging, showing an error message, etc.
         exception.printStackTrace();
     }
 }
